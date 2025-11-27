@@ -1,0 +1,2 @@
+# Implementing-Information-Gain-for-a-Decision-Tree-in-PySpark
+Use PySpark DataFrames to load and preprocess a dataset. Implement entropy and information gain from scratch. Use your information gain function to choose the best split (a depth-1 decision tree, also called a decision stump). Evaluate your decision stump on a test set. We will use a simplified version of the Titanic dataset with a few features.
